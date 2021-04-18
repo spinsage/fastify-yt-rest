@@ -21,6 +21,6 @@ This repository is Apache 2-licensed.
 <br><br>
 
 # Let us know!
-We at [**Spinsage Technologies**](https://www.spinsage.com/) provide digital consultancy, web and mobile app development services. For enquiries, we can be reached at contact@spinsage.com. 
+We at [**Spinsage**](https://www.spinsage.com/) provide digital consultancy, web and mobile app development services. For enquiries, we can be reached at contact@spinsage.com. 
 
 Do let us know if you have any queries or suggestions regarding our work.
