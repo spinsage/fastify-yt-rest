@@ -5,7 +5,7 @@ Sample code from our Youtube videos for implementing Rest APIs using Fasify
 
 Following are the list YouTube videos from Spinsage for which this code was implemented
 
-[![Fastify Nodemon Setup](https://img.youtube.com/vi/L-hhP92MNRk/0.jpg)](https://youtu.be/L-hhP92MNRk "How to setup ExpressJS with Nodemon for NodeJS Web and API Development")
+[![Fastify Nodemon Setup](https://img.youtube.com/vi/L-hhP92MNRk/0.jpg)](https://youtu.be/L-hhP92MNRk "How to setup Fastify with Nodemon for NodeJS Web and API Development")
 
 [![Fastify Get API Implementation](https://img.youtube.com/vi/oq_u0wgOI7E/0.jpg)](https://youtu.be/oq_u0wgOI7E "How to process GET requests using Fastify for REST APIs")
 
