@@ -96,7 +96,7 @@ app.delete('/products/:productId', async (req, res) => {
 
 const startServer = async () => {
     try {
-        await app.listen(8081);
+        await app.listen(8081, '0.0.0.0');
     } catch (err) {
         app.log.error(err);
     }
